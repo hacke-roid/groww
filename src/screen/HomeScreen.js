@@ -6,7 +6,7 @@ import {
   TouchableOpacity,
   FlatList,
 } from "react-native";
-
+import ExploreSreen from "./ExploreSreen";
 import SearchBar from "./SearchBar";
 
 const HomeScreen = () => {
